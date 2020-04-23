@@ -15,7 +15,7 @@
 	<properties>
 		<springframework.version>5.1.7.RELEASE</springframework.version>
 		<spring-security.version>5.0.0.RELEASE</spring-security.version>
-		<jackson.versio>2.9.9</jackson.versio>
+		<jackson.versio>2.9.10.4</jackson.versio>
 		<springfox.version>2.8.0</springfox.version>
 	</properties>
 
